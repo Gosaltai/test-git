@@ -1,5 +1,6 @@
 git clone UTL rep - склонировать
 git init инициализировать проект
+git remote add origin (url)
 
 git config user.name(user.email) - проверить данные о пользователе
 
@@ -10,6 +11,7 @@ git commit -m "coment" - запись
 git log/ git log --oneline - проверка изменений
 git push [ссылка] [ветка]
 git push origin main
+git remote -v ссылка на githab
 
 git reset [название фаила] удалить из stage
 git reset --harh (возвращает изменеия)
