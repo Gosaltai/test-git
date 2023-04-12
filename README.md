@@ -1,3 +1,6 @@
+git clone UTL rep - склонировать
+git init инициализировать проект
+
 git config user.name(user.email) - проверить данные о пользователе
 
 git status
