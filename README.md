@@ -11,8 +11,14 @@ git commit -m "coment" - запись
 git log/ git log --oneline - проверка изменений
 git push [ссылка] [ветка]
 git push origin main
-git remote -v ссылка на githab
+git remote -v посмотреть ссылка на githab
 
 git reset [название фаила] удалить из stage
 git reset --harh (возвращает изменеия)
 git diff - какие строчки изменяли
+
+git branch - проверить ветки, создать ветку
+git checkout develop - перключить ветку
+
+git pull origin (название ветки) - преместить изменения из сервера githab
+git branch -d название ветки - удалить ветку
